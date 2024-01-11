@@ -2,7 +2,7 @@
 
 * ¡Bienvenido a Pomodoro Time Manager, tu asistente de productividad! 🚀 Este proyecto te permite organizar tu tiempo utilizando la técnica Pomodoro, una metodología simple pero efectiva para aumentar la productividad y mantener la concentración.
 
-* <a href="" target="_blank">Link para ver el proyecto con GitHub Pages 😊🔗</a>
+* <a href="https://luiso-o.github.io/Pomodoro/" target="_blank">Link para ver el proyecto con GitHub Pages 😊🔗</a>
 
 📋 **Características Principales:**
 - **Gestión de Tareas:** Agrega y organiza tus tareas fácilmente.
