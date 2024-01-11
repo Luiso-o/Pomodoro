@@ -1,0 +1,77 @@
+body{
+    min-height: 100vh;
+    background: url(images/pexels-fauxels-3183183.jpg) no-repeat center center/cover ;
+}
+
+#app{
+    background-color: white;
+    width: 0 auto;
+    margin: 300px auto;
+    border: solid 5px black;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+#time{
+    text-align: center;
+    padding: 20px 0;
+}
+
+#time #value{
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+}
+
+input[type= "text"] {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    padding: 10px;
+    border: solid 2px #ccc;
+    width: 400px;
+    border-radius: 10px;
+}
+
+button,
+input [type="submit"]{
+    border: none;
+    background-color: rgb(39, 123, 206);
+    color: white;
+    padding: 10px;
+    width: 100px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#tasks{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.task{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.task .completed{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.done {
+    display: inline-block;
+    padding: 5px;
+    width: 50px;
+    text-align: center;
+    background-color: rgb(53, 255, 50);
+    border-radius: 10px;
+}
